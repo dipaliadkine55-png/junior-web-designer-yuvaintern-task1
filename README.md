@@ -1,2 +1,2 @@
-# junior-web-designer-yuvaintern-task1
-junior web designer
+# yuvaintern web designer task1
+junior web designer task1
